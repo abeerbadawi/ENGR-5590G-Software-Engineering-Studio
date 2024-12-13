@@ -1,7 +1,7 @@
-<h1> Comprehensive Frameworks and Software Designs for LLM Powered Healthcare Applications <h1>
+<h1> Comprehensive Framework and Software Designs for LLM Powered Healthcare Application <h1>
 <h1> ENGR-5590G-Software-Engineering-Studio <h1>
 
-<h3> This course features a team project allowing students to utilize the methods and tools they have learned inearlier courses to design and develop a large-scale software-intensive system. The projects are related to healthcare application that utilize large language models. The project revolves around decomposing a large complex system into modules and classes that can be implemented, tested, deployed and maintained easily. <h3>
+<h3> This course features a team project allowing students to utilize the methods and tools they have learned in earlier courses to design and develop a large-scale software-intensive system. The projects are related to healthcare applications that utilize large language models. The project revolves around decomposing a large complex system into modules and classes that can be implemented, tested, deployed and maintained easily. <h3>
 
 <h2> System Components: <h2> 
 <li> Frontend: Develop a user interface or dashboard using frameworks like Flask,
@@ -19,4 +19,4 @@ Azure, Google Cloud, or AWS. <li>
 <li> Software Testing: Implement testing strategies, including unit testing, integration
 testing, and end-to-end testing such as pytest, JUnit, or Selenium to ensure code quality
 and reliability. <li>
-<li> Large Language Models: Utilize LLM in your system to provide an extra feature to the system such as chatbot <li>
+<li> Large Language Models: Utilize LLM in your system to provide an extra feature to the system such as a chatbot <li>
