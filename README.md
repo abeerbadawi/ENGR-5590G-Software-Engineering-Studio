@@ -3,7 +3,7 @@
 
 <h3> This course features a team project allowing students to utilize the methods and tools they have learned in earlier courses to design and develop a large-scale software-intensive system. The projects are related to healthcare applications that utilize large language models. The project revolves around decomposing a large complex system into modules and classes that can be implemented, tested, deployed and maintained easily. <h3>
 
-<h2> System Components: <h2> 
+System Components:
 <li> Frontend: Develop a user interface or dashboard using frameworks like Flask,
 Laravel, or ASP.Net. <li>
 <li> Backend: Implement server-side logic with appropriate languages and frameworks like
